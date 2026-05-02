@@ -55,9 +55,51 @@ You are an expert in evidence-based practice in healthcare. Please evaluate this
 
 * Text resources: Chapter 6,7; Appendix C
 
+## 4.1 Action Item 1: Identify the Elements of the EBP Questions to Search
+
+## 4.2 Action Item 2: Identify Resources for Pre-appraised Evidence
+
+## 4.3 Action Item 3: Execute the Search
+
+## 4.4 Action Item 4: Evaluate the Search Results
+
+## 4.5 Action Item 5: If Applicable, Conduct a Targeted Search
+
 # 5. (Evidence) Conduct targeted search or exhaustive search and screening
 
 * Text resources: Chapter 6,7; Appendix C
+
+## 5.1 Search
+
+### 5.1.1 Action Item 1: Determine Which Databases to Search
+
+### 5.1.2 Action Item 2: Build the Search—Identify Key Concepts
+
+### 5.1.3 Action Item 3: Build the Search—Create Search Strings
+
+### 5.1.4 Action Item 4: Execute the Search
+
+### 5.1.5 Action Item 5: Apply Initial Limits or Filters, When Appropriate
+
+### 5.1.6 Action Item 6: Evalutate, Revise, and Refine the Search
+
+### 5.1.7 Action Item 7: Document the Search
+
+### Additional Search Techniques
+
+## 5.2 Screening
+
+### 5.2.1 Action Item 1: Establish Inclusion and Exclusion Criteria for the Literature Screening
+
+### 5.2.2 Action Item 2: Determine a Plan for Performing the Literature Screening
+
+### 5.2.3 Action Item 3: Begin by Screening Only the Title and Abstracts Produced From the Search
+
+### 5.2.4 Action Item 4: Complete Full-Text Screening for All Articles That Remain After Screening the Titles and Abstracts
+
+### 5.2.5 Action Item 5: Document the Screening Process
+
+### Minimize Bias in Literature Search and Screening
 
 # 6. (Evidence) Appriase the evidence
 
@@ -88,6 +130,12 @@ You are an expert in evidence-based practice in healthcare. Please evaluate this
 * Text resources: Chapter 11; Appendix J
 
 # 13. (Translation) Identify implementation framework
+
+* Text resources: Chapter 11; Appendix J
+
 # 14. (Translation) Create an implementation/action plan
+
+* Text resources: Chapter 11; Appendix J
+
 # 15. (Translation) Implement
 # 16. (Translation) Monitor sustainability and identify next steps
