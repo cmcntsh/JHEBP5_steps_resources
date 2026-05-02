@@ -55,15 +55,32 @@ You are an expert in evidence-based practice in healthcare. Please evaluate this
 
 * Text resources: Chapter 6,7; Appendix C
 
-## 4.1 Action Item 1: Identify the Elements of the EBP Questions to Search
+## 4.1 Action Item 1: Identify the Elements of the EBP Questions to Search (Ch. 7 p. 95)
 
-## 4.2 Action Item 2: Identify Resources for Pre-appraised Evidence
+Prompt: Get suggestions for sources of pre-appraised evidence and best search elements for each source
+```
+You are an expert in healthcare quality improvement with extensive expertise in searching for literature. I am performing a best-evidence search for an EBP question I will provide. Please provide me a list of resources for pre-appraised evidence most likely to produce evidence relevant to my EBP question. Focus on literature in this order: 1) clinical practice guidelines (CPG); then 2) literature reviews with a systematic approach (LRSA); then 3) evidence summaries. Please list the resources in order of likelihood to have the relevant evidence in descending order of likelihood starting with the scource most likely to have the evidence I'm looking for and continuing to least likely. When available, please provide links to the resources you list. Please help me identify the most relevant elements of the EBP question to search for best evidence for each resource you list. Here is the EBP question: "<Paste EBP question here in quotes.>"
+```
 
-## 4.3 Action Item 3: Execute the Search
+## 4.2 Action Item 2: Identify Resources for Pre-appraised Evidence (Ch. 7 p. 95)
 
-## 4.4 Action Item 4: Evaluate the Search Results
+* See prompt under 4.1.
 
-## 4.5 Action Item 5: If Applicable, Conduct a Targeted Search
+## 4.3 Action Item 3: Execute the Search (Ch. 7 p. 97)
+
+* Focus on literature in this order: 1) clinical practice guidelines (CPG); then 2) literature reviews with a systematic approach (LRSA); then 3) evidence summaries.
+* See prompt under 4.1.
+
+## 4.4 Action Item 4: Evaluate the Search Results (Ch. 7 p. 97)
+
+Prompt: Review a best-evidence resource to ensure it addresses all aspects of an EBP question.
+```
+You are an expert in healthcare quality improvement with extensive expertise in searching for and evaluating literature. Please evaluate this best-evidence resource. Please classify it as a clinical practice guideline (CPG), a literature review with a systematic approach (LRSA), an evidence summary, or none of these. Please rate the quality of the best-evidence resource. Does it address all aspects of the EBP question I will provide? How well does it address each aspect of the EBP question? Should a targeted literature search be conducted to identify additional evidence that offers new and compelling information that has been published since the search date provided in the pre-appraisal evidence? If so, please suggest places to conduct such a search that may turn up strong or moderate support for decision-making. Here is the EBP question: "<Paste EBP question here in quotes.> "
+```
+
+## 4.5 Action Item 5: If Applicable, Conduct a Targeted Search (Ch. 7 p. 98)
+
+* See prompt under 4.4.
 
 # 5. (Evidence) Conduct targeted search or exhaustive search and screening
 
@@ -71,35 +88,69 @@ You are an expert in evidence-based practice in healthcare. Please evaluate this
 
 ## 5.1 Search
 
-### 5.1.1 Action Item 1: Determine Which Databases to Search
+### 5.1.1 Action Item 1: Determine Which Databases to Search (Ch. 7 p. 98)
 
-### 5.1.2 Action Item 2: Build the Search—Identify Key Concepts
+Prompt: Determine which databases to search
+```
+You are an expert in healthcare quality improvement with extensive expertise in searching for literature. What types of information are needed to answer the EBP question I will provide? Which databases will provide that information? Does my EBP question cross disciplines? Please list relevant search concepts relevant to the EBP question for each database you list. Please create database-specific search strings for each database you list. If possible, when creating search strings, please isolate each element of the EBP question and identify synonyms and alternative spellings for words or phrases listed. If needed, suggest multiple search strings. Please use controlled vocabulary for associated with keywords for individual databases when appropriate. If a database you suggest has the ability to filter or sort search results that may be helpful when reviewing search results for relevant literature, please point that out. Here is the EBP question: "<Paste EBP question here in quotes.> "
+```
 
-### 5.1.3 Action Item 3: Build the Search—Create Search Strings
+### 5.1.2 Action Item 2: Build the Search—Identify Key Concepts (Ch. 7 p. 101)
 
-### 5.1.4 Action Item 4: Execute the Search
+* See prompt under 5.1.1.
 
-### 5.1.5 Action Item 5: Apply Initial Limits or Filters, When Appropriate
+### 5.1.3 Action Item 3: Build the Search—Create Search Strings (Ch. 7 p. 104)
 
-### 5.1.6 Action Item 6: Evalutate, Revise, and Refine the Search
+* See prompt under 5.1.1.
 
-### 5.1.7 Action Item 7: Document the Search
+### 5.1.4 Action Item 4: Execute the Search (Ch. 7 p. 106)
+
+* See prompt under 5.1.1.
+
+### 5.1.5 Action Item 5: Apply Initial Limits or Filters, When Appropriate (Ch. 7 p. 107)
+
+* See prompt under 5.1.1.
+
+### 5.1.6 Action Item 6: Evalutate, Revise, and Refine the Search (Ch. 7 p. 107)
+
+* See prompt under 5.1.1.
+
+Potential follow-up prompt: Suggest revisions or refinements
+```
+The search results seem to have these gaps: "<List gaps here.>" Can you suggest any ways to add attitional keywords in a concept or additional concepts that might address these gaps? <It might also be useful to list the specific database you're searching.>
+```
+
+### 5.1.7 Action Item 7: Document the Search (Ch. 7 p. 108)
 
 ### Additional Search Techniques
 
 ## 5.2 Screening
 
-### 5.2.1 Action Item 1: Establish Inclusion and Exclusion Criteria for the Literature Screening
+### 5.2.1 Action Item 1: Establish Inclusion and Exclusion Criteria for the Literature Screening (Ch. 7 p. 110)
 
-### 5.2.2 Action Item 2: Determine a Plan for Performing the Literature Screening
+Prompt: Screen search results for relevant literature (You will need to upload a file that contains titles and abstracts for search results. This prompt may need to be revised to format final outputs in the desired way.)
+```
+You are an expert in healthcare quality improvement with extensive expertise in searching and evaluating literature. I need to screen these search results to identify only the literature that is relevant to answer the EBP question I will provide. Please suggest inclusion and exclusion criteria for screening. Please list the title of each article included in the search results. For each title, please note if the article should be included or excluded. Please provide a rationale for each inclusion/exclusion determination. Please generate a final list of all titles that should be included with ID numbers needed for article retrieval. Here is the EBP question: "<Paste EBP question here in quotes.> "
+```
 
-### 5.2.3 Action Item 3: Begin by Screening Only the Title and Abstracts Produced From the Search
+### 5.2.2 Action Item 2: Determine a Plan for Performing the Literature Screening (Ch. 7 p. 111)
 
-### 5.2.4 Action Item 4: Complete Full-Text Screening for All Articles That Remain After Screening the Titles and Abstracts
+* See prompt under 5.2.1.
 
-### 5.2.5 Action Item 5: Document the Screening Process
+### 5.2.3 Action Item 3: Begin by Screening Only the Title and Abstracts Produced From the Search (Ch. 7 p. 112)
 
-### Minimize Bias in Literature Search and Screening
+* See prompt under 5.2.1.
+
+### 5.2.4 Action Item 4: Complete Full-Text Screening for All Articles That Remain After Screening the Titles and Abstracts (Ch. 7 p. 112)
+
+Prompt: Screen the full text of an article. (You will need to upload the article.)
+```
+You are an expert in healthcare quality improvement with extensive expertise in searching and evaluating literature. I need to screen this article to identify if it is relevant to answer the EBP question I will provide. Please indicate if the article should be included or excluded from the literature review. Please provide the rationale for your response. Please list ways the article if a good it and might be considered for inclusion. Please list ways the article is a poor fit she should be considered for exclusion. Here is the EBP question: "<Paste EBP question here in quotes.> "
+```
+
+### 5.2.5 Action Item 5: Document the Screening Process (Ch. 7 p. 112)
+
+### Minimize Bias in Literature Search and Screening  (Ch. 7 p. 113)
 
 # 6. (Evidence) Appriase the evidence
 
