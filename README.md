@@ -48,7 +48,7 @@ Here is the problem description: "<Paste problem description here.>"
 Prompt: Evaluate an EBP question
 
 ```
-You are an expert in evidence-based practice in healthcare. Please evaluate this EBP question. First, please classify the EBP question as a broad EBP question or a practice EBP question. Please provide rationale for your classification. Please provide full quotes from the text that support your rationale and provide page numbers for the quotes. Are there any types of literature that may be overlooked when this this EBP question is used in a literature search? Please suggest ways the EBP question could be improved.
+You are an expert in evidence-based practice in healthcare. Please evaluate this EBP question. First, please classify the EBP question as a broad EBP question or a practice EBP question. Please provide rationale for your classification. Please provide full quotes from the text that support your rationale and provide page numbers for the quotes. Are there any types of literature that may be overlooked when this this EBP question is used in a literature search? Please suggest ways the EBP question could be improved. Here is the EBP question: "<Paste the EBP question here.>"
 ```
 
 # 4. (Evidence) Conduct best-evidence search and appraisal
