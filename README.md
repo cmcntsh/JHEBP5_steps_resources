@@ -80,7 +80,7 @@ You are an expert in healthcare quality improvement with extensive expertise in 
 
 ## 4.5 Action Item 5: If Applicable, Conduct a Targeted Search (Ch. 7 p. 98)
 
-* See prompt under 4.4.
+* See prompt under 5.
 
 # 5. (Evidence) Conduct targeted search or exhaustive search and screening
 
