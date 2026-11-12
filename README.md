@@ -7,6 +7,9 @@
 
 # 1. (Practice Question) Explore and describe the problem
 
+<details>
+  <summary>Expand to see resources</summary>
+
 * Text resources: Chapter 3, Appendix B
 
 Prompt: Evaluate a problem description according to JHEBP5
@@ -15,7 +18,12 @@ Prompt: Evaluate a problem description according to JHEBP5
 You are an expert in evidence-based practice in healthcare. Please evaluate this problem description according to JHEBP 5th Edition guidelines for a problem description. What elements of the problem description are present and well-described? (What is the local problem? Why is this problem important and relevant? What would happen if it was not addressed? What is the current practice in the EBP team's setting? What data from the EBP team's setting indicates there is a problem?) What elements of the problem description are missing or are not described in sufficient detail to be helpful in completing the steps of the JHEBP 5th Edition process? Please provide rationale for your statements and quote passages from the text that support your assertions. Please provide the full text for the quotations page numbers for the quotations. Please suggest ways to improve the problem description. Here is the problem description: "<Paste the problem description here.>"
 ```
 
+</details>
+
 # 2. (Practice Question) Develop the problem statement
+
+<details>
+  <summary>Expand to see resources</summary>
 
 * Text resources: Chapter 3, Appendix B
 
@@ -25,7 +33,12 @@ Prompt: Evaluate the problem statement according to JHEBP5
 You are an expert in evidence-based practice in healthcare. Please evaluate this problem statement according to JHEBP 5th Edition guidelines for a problem statement. What elements of the problem statement are present and well-described? What elements of the problem statement are missing or are not described in sufficient detail to be helpful in completing the steps of the JHEBP 5th Edition process? Please provide rationale for your statements and quote passages from the text that support your assertions. Please provide the full text for the quotations page numbers for the quotations. Please suggest ways to improve the problem statement. Here is the problem statement: "<Paste the problem statement here.>"
 ```
 
+</details>
+
 # 3. (Practice Question) Write the EBP question (Population, Setting, Topic or Intervention, Outcomes)
+
+<details>
+  <summary>Expand to see resources</summary>
 
 * Text resources: Chapter 4, Appendix B
 
@@ -51,7 +64,12 @@ Prompt: Evaluate an EBP question
 You are an expert in evidence-based practice in healthcare. Please evaluate this EBP question. First, please classify the EBP question as a broad EBP question or a practice EBP question. Please provide rationale for your classification. Please provide full quotes from the text that support your rationale and provide page numbers for the quotes. Are there any types of literature that may be overlooked when this this EBP question is used in a literature search? Please suggest ways the EBP question could be improved. Here is the EBP question: "<Paste the EBP question here.>"
 ```
 
+</details>
+
 # 4. (Evidence) Conduct best-evidence search and appraisal
+
+<details>
+  <summary>Expand to see resources</summary>
 
 * Text resources: Chapter 6,7; Appendix C
 
@@ -82,11 +100,16 @@ You are an expert in healthcare quality improvement with extensive expertise in 
 
 * See prompt under 5.
 
+</details>
+
 # 5. (Evidence) Conduct targeted search or exhaustive search and screening
 
 * Text resources: Chapter 6,7; Appendix C
 
 ## 5.1 Search
+
+<details>
+  <summary>Expand to see resources</summary>
 
 ### 5.1.1 Action Item 1: Determine Which Databases to Search (Ch. 7 p. 98)
 
@@ -152,7 +175,12 @@ You are an expert in healthcare quality improvement with extensive expertise in 
 
 ### Minimize Bias in Literature Search and Screening  (Ch. 7 p. 113)
 
+</details>
+
 # 6. (Evidence) Appriase the evidence
+
+<details>
+  <summary>Expand to see resources</summary>
 
 * Text resources: Chapter 8; Appendix D, E1, E2, E3, F
 
@@ -282,7 +310,12 @@ You are an expert in healthcare quality improvement project with extensive exper
 In addition, after answering all the question, please answer this question and provide your rationale for why you answered this way. Here is the question: "Consider all of your responses above. Do you think the quality of this article is adequate to provide dependable information to answer the EBP question?".
 ```
 
+</details>
+
 # 7. (Evidence) Summarize the evidence
+
+<details>
+  <summary>Expand to see resources</summary>
 
 * Text resources: Chapter 9; Appendix F, G1, G2
 
@@ -304,7 +337,12 @@ Prompt: Create evidence table
 You are an expert in healthcare quality improvement project with extensive expertise in evaluating literature. The Johns Hopkins Evidence-Based Practice 5th edition text defines individual evidence as an individual study with a strong formal study design, an individual study with a weaker less formal study design, or anecdotal evidence. I'm trying to answer this evidence-based practice question: "<Paste EBP question here in quotes.>" I'm completing Appendix G2 Individual Evidence Summary Tool and creating a table of evidence. Please create a table that uses the following headings and includes a row for the information indicated in each column heading suitable to copy and paste into a spreadsheet for the article. Here are the headings for the table columns: "(Author, date, title of article), (type of evidence), (topic or intervention), (population), (setting), (findings that help answer the EBP question), (limitations), (level of support for decision-making), (measures used), (reviews [select from systematic, integrative, rapid, umbrella, scoping, critical, literature, not applicable]), (methodology [select from quantitative, qualitative, mixed-methods]), (design [select from randomized controlled trial, quasi-experimental, interventional, observational, descriptive, correlational]), (timing [select from prospective, retrospective, cross-sectional, longitudinal]), (other [select from expert opinion, book chapter, position statement, programatic experience])"
 ```
 
+</details>
+
 # 8. (Evidence) Organize the data
+
+<details>
+  <summary>Expand to see resources</summary>
 
 * Text resources: Chapter 9; Appendix H
 
@@ -330,17 +368,33 @@ Prompt: Use this prompt on individual groupings of evidence (Strong, Moderate, L
 You are an expert in healthcare quality improvement project with extensive expertise in evaluating literature. I'm trying to answer this evidence-based practice question: "<Paste EBP question here in quotes.>" Please review each article individually and describe information from that article that answers the EBP question. For each statement you make, please identify full quotes with page numbers from the article that support your statements. After reviewing each article individually, consider the articles as a group and synthesize the information and generate insights that answer the EBP question. For each statement in the synthesis, please identify which publications support that statement using APA parenthetical citations. In addition, please describe any additional insights, patterns, themes, subgroups, and subtleties that produce a more comprehensive understanding of the big picture. Finally, please describe areas of agreement and areas of disagreement between the articles and supply full quotations with page numbers from the articles that support your statements about agreement and disagreement between the articles.
 ```
 
+</details>
+
 # 9. (Evidence) Synthesize the findings
+
+<details>
+  <summary>Expand to see resources</summary>
 
 * Text resources: Chapter 9; Appendix H
 * See prompt under 8.
 
+</details>
+
 # 10. (Evidence) Record best-evidence recommentations
+
+<details>
+  <summary>Expand to see resources</summary>
 
 * Text resources: Chapter 9; Appendix H
 * See prompt under 8
 
+</details>
+
+
 # 11. (Translation) Assess the risk, fit, feasibility, and acceptability of best-evidence recommendations
+
+<details>
+  <summary>Expand to see resources</summary>
 
 * Text resources: Chapter 10; Appendix I
 * Run prompt under 8.
@@ -354,7 +408,12 @@ Prompt:
 Please answer the following questions based on the synthesized findings. Assess Certainty: Do the recommendations have high or resonable certainty? Please provide rationale for your response. Assess Risk: What is the potential negative impact on patient or staff safety? Please provide rationale for your response. Assess Fit: How well does the change align with existing practices (values, norms, goals, skills)? Please ask clarifying questions if needed to answer this question. Please provide rationale for your response. Assess Feasibility: Is the change doable and are barriers realistic to overcome? Is the practice environment ready for change? are necessary materials or human resources available? Can the chaange be successfully implemented? Please ask clarifying questions if needed to answer these question. Please provide rationale for your response. Assess Acceptability: Do impacted groups find the change agreeable? Does leadership support the change and trust it is reasonable? Does the change align with organizational priorities? Please ask clarifying questions if needed to answer these question. Please provide rationale for your response. In concise stements, record the organization-specific recommendations below that address the EBP question. 
 ```
 
+</details>
+
 # 12. (Translation) Identify practice setting-specific recommendations
+
+<details>
+  <summary>Expand to see resources</summary>
 
 * Text resources: Chapter 11; Appendix J
 
@@ -369,6 +428,8 @@ Prompt: Recommendations for text in the A3 fields
 ```
 You are an expert in healthcare quality improvement projects with extensive expertise in evaluating literature and implementation. Please suggest text for the following sections of the A3 document: Problem/Evidence (summary of problem, synthesis of evidence); Goal (SMART goal aligned with strategic priority); Goal (Key accomplishments using translation framework); Timeline/Milestones (Gantt); People (Project leader, working group, collaborating groups, impacted groups, sponsor); Metrics Progress (Evaluate); Risk and risk mitigating strategy); Implementation (educate, execute); Work Breakdown Structure; Sustainability Plan (Endure, What are the potential barriers to project sustainability? What are some mitigation strategies for the potential obstacles? What additional resources may be needed to support the project? What additional training may be required? What responsibilities need to be assigned? To whom will these responsibilities be assigned? Are there any additional metrics/outcomes that need to be collected/measured? How frequently will you monitor and review your outcomes?)
 ```
+
+</details>
 
 # 13. (Translation) Identify implementation framework
 
