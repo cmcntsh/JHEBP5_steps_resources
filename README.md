@@ -32,8 +32,6 @@ Appendix B provides space for an updated question. **Chapter 7, “Evidence Phas
 
 ### Process for Completing Appendix B
 
-# Process for Completing Appendix B
-
 *Johns Hopkins Evidence-Based Practice for Nurses and Healthcare Professionals: Model & Guidelines*, fifth edition (2025)
 
 The eight steps below are a practical workflow drawn from the textbook; they are not numbered this way in the book. Page numbers refer to the **printed textbook pages**.
