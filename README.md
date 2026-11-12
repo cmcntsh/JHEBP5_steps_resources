@@ -64,7 +64,9 @@ You are an expert in evidence-based practice in healthcare. Please evaluate this
 <details>
   <summary>Expand to see resources</summary>
 
-* Text resources: Chapter 3, Appendix B
+## Where to Find Guidance for Completing Appendix B
+
+See the explanations and resources listed under #1.
 
 #### Previous prompts for AI Assistance
 
@@ -81,7 +83,9 @@ You are an expert in evidence-based practice in healthcare. Please evaluate this
 <details>
   <summary>Expand to see resources</summary>
 
-* Text resources: Chapter 4, Appendix B
+## Where to Find Guidance for Completing Appendix B
+
+See the explanations and resources listed under #1.
 
 #### Previous prompts for AI Assistance
 
