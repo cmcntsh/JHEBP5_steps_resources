@@ -317,6 +317,57 @@ Apply the decision tree **to each source individually**. The steps below turn it
 
 **Key distinction:** Appendix D selects the evidence route and appraisal tool. The selected E1, E2, or E3 tool then determines whether the source is suitable and of adequate quality to inform the project.
 
+## Johns Hopkins Evidence-Based Practice, Fifth Edition: Guide to Appendices E1, E2, and E3
+
+The page numbers below are **printed book pages**, which may differ from a PDF viewer's page count. Chapter 8 explains appraisal; Appendix D selects the tool; and Appendices E1–E3 contain the questions and decision fields to complete.
+
+### Chapters and appendices to consult
+
+| Resource | Printed pages | How it helps |
+|---|---:|---|
+| Chapter 6, “Evidence Phase: Introduction to Evidence” | 79–91 | Distinguishes pre-appraised evidence, formal single studies, and anecdotal evidence and describes their subtypes. |
+| Chapter 8, “Evidence Phase: Appraising the Evidence” | 119–131 | Main explanation of support for decision-making, suitability, and quality appraisal. E1 is discussed on pp. 122–126; E2 on pp. 126–129; E3 on p. 129. |
+| Appendix D, “Appraisal Tool Selection Algorithm” | 226–227 | Routes a source to E1, E2, or E3 and identifies its potential level of support. |
+| Appendix E1, “Pre-appraised Evidence Appraisal Tool” | 230–233 | Suitability and quality questions for eligible evidence summaries, clinical practice guidelines, and literature reviews with a systematic approach. |
+| Appendix E2, “Single Study Evidence Appraisal Tool” | 236–242 | Determines study-design support and supplies quality sections for qualitative, quantitative, and mixed methods studies. |
+| Appendix E3, “Anecdotal Evidence Appraisal Tool” | 244–247 | Supplies quality questions for expert opinion and related sources, case reports, programmatic experiences, and reviews without a systematic approach. |
+| Appendix F, “Evidence Terminology and Considerations Guide” | 250–263 | Clarifies evidence and appraisal terms used in the tools. |
+
+**Supporting resources:** Appendix B (pp. 212–215) defines the EBP question against which relevance and suitability are judged. Chapter 7 (pp. 93–117) and Appendix C (pp. 218–223) explain and document the search and screening pathway, which matters particularly for E1. After appraisal, Chapter 9 (pp. 133–145) and Appendices G1 (pp. 266–269) and G2 (pp. 272–275) guide evidence summaries.
+
+### Process for Appendix E1: Pre-appraised evidence
+
+| Step | What to do | Relevant reading: printed pages |
+|---|---|---|
+| 1. Confirm the route | Use Appendix D to confirm that the source is an eligible evidence summary, clinical practice guideline, or review with a systematic approach. Identify which E1 quality subsection applies. | Ch. 6, pp. 81–85; Ch. 8, pp. 122–123; App. D, p. 226; App. E1, pp. 230–232 |
+| 2. Establish the search pathway | If considering the source for **independent support**, complete E1 Section I on suitability. If it came from an **exhaustive search**, follow the form's instruction to skip Section I and proceed to Section II on quality. | Ch. 7, pp. 109–113; App. C, pp. 218–223; Ch. 8, pp. 122–126; App. E1, p. 230 |
+| 3. Assess suitability when required | Compare the source with the EBP question: topic or intervention, population, setting, outcomes, and currency of its underlying evidence. Explain whether differences affect transferability. For independent support, the form requires “yes” answers to its suitability questions. | App. B, pp. 212–215; Ch. 8, pp. 123–126; App. E1, p. 230 |
+| 4. Appraise quality | Complete the **evidence summary** questions on p. 231, **guideline** questions on pp. 231–232, or **systematic-approach review** questions on pp. 232–233. For a guideline, also assess the literature review used to develop it, as the form directs. Record reasons for “no,” “unclear,” or “N/A.” | Ch. 8, pp. 120–123, 125–126; App. E1, pp. 231–233; App. F, pp. 250–263 |
+| 5. Make and record the decision | Judge whether quality is adequate to answer the EBP question, then fill the first-page data collection table **after** that decision. A fully suitable, adequate source can provide independent support. An adequate source that is relevant but not fully suitable may still contribute strong support in G2; exclude inadequate-quality evidence and track the reason. | Ch. 8, pp. 121–126; App. E1, pp. 230, 233; Ch. 9, pp. 134–135 |
+
+### Process for Appendix E2: Single study evidence
+
+| Step | What to do | Relevant reading: printed pages |
+|---|---|---|
+| 1. Confirm a formal single-study design | Follow Appendix D to verify that the source reports a formal study rather than anecdotal evidence, then open E2. | Ch. 6, pp. 85–87; App. D, p. 227; Ch. 8, pp. 126–129; App. E2, p. 236 |
+| 2. Determine design-based support | Complete E2 Section I. An intervention study with an **explicitly stated and analyzed control group** can qualify for strong support; other formal single studies generally provide moderate support. Record the actual design and your rationale. | Ch. 8, pp. 120–121, 126–129; App. D, p. 227; App. E2, p. 236 |
+| 3. Select the quality section | Use Section IIA for **qualitative** evidence, IIB for **quantitative** evidence, or IIC for **mixed methods** evidence. | Ch. 6, pp. 85–87; App. E2, pp. 237–242 |
+| 4. Work through the applicable questions | Examine how the authors describe the question, participants and sampling, methods, analysis, findings, and limitations. Apply design-specific questions, including whether qualitative and quantitative results are integrated in a mixed methods study. Explain uncertain answers. | Ch. 8, pp. 122, 126–129; App. E2, qualitative pp. 237–238, quantitative pp. 238–240, mixed methods pp. 240–242; App. F, pp. 250–263 |
+| 5. Decide adequacy, then collect data | Consider the answers together and decide whether the study is dependable enough for this EBP question. Keep **design-based support** separate from **quality adequacy**. If adequate, complete E2's first-page collection table; if inadequate, exclude it and track the reason. | Ch. 8, pp. 120–123, 126–129; App. E2, pp. 236–242; Ch. 9, pp. 134–135 |
+
+### Process for Appendix E3: Anecdotal evidence
+
+| Step | What to do | Relevant reading: printed pages |
+|---|---|---|
+| 1. Confirm the route | Use Appendix D to establish that the source belongs to the anecdotal evidence family, such as a source without a formal study design or a review without a systematic approach. Its potential support is **limited**. | Ch. 6, pp. 87–89; Ch. 8, pp. 121, 129; App. D, pp. 226–227; App. E3, p. 244 |
+| 2. Choose the source-specific subsection | Locate **expert opinion, position statements, or book chapters** on p. 244; **case reports** on p. 245; **programmatic experiences** on p. 246; or **reviews with an unsystematic approach** on pp. 246–247. | Ch. 6, pp. 87–89; App. E3, pp. 244–247 |
+| 3. Appraise the source | Answer the applicable questions about the author's expertise or the source's context, methods of description, connection between reported information and conclusions, limitations, and conflicts of interest. Note “unclear” where information is missing. | Ch. 8, pp. 122, 129; App. E3, pp. 244–247; App. F, pp. 250–263 |
+| 4. Decide adequacy | Use the subsection's final question to decide whether the information is dependable enough for the EBP question. Adequate quality allows inclusion; it does **not** raise anecdotal evidence above limited support. | Ch. 8, pp. 120–123, 129; App. E3, pp. 244–247 |
+| 5. Record the outcome | For an adequate source, complete the collection table on E3's first page **after** the quality assessment and describe its limitations. For an inadequate source, set it aside and record the exclusion. | App. E3, pp. 244–247; Ch. 9, pp. 134–135 |
+
+**Quality decision across all three tools:** The fifth edition calls for a reasoned **adequate or inadequate** decision. It does not assign the earlier A/B/C quality grades or use a simple count of “yes” answers as the decision rule (Ch. 8, pp. 121–123).
+
+
 
 ## Appendix D Classify the Evidence
 
