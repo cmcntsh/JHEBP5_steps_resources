@@ -49,7 +49,9 @@ The eight steps below are a practical workflow drawn from the textbook; they are
 
 The most direct companion to this table is **Appendix B's field-by-field instructions on pp. 214–215**. Chapter 3 supports the problem-focused steps; Chapter 4 supports question construction and review.
 
-(Old - see above for updated promts.)Prompt: Evaluate a problem description according to JHEBP5
+#### Previous prompts for AI Assistance
+
+(Old - see above for updated promts.) Prompt: Evaluate a problem description according to JHEBP5
 
 ```
 You are an expert in evidence-based practice in healthcare. Please evaluate this problem description according to JHEBP 5th Edition guidelines for a problem description. What elements of the problem description are present and well-described? (What is the local problem? Why is this problem important and relevant? What would happen if it was not addressed? What is the current practice in the EBP team's setting? What data from the EBP team's setting indicates there is a problem?) What elements of the problem description are missing or are not described in sufficient detail to be helpful in completing the steps of the JHEBP 5th Edition process? Please provide rationale for your statements and quote passages from the text that support your assertions. Please provide the full text for the quotations page numbers for the quotations. Please suggest ways to improve the problem description. Here is the problem description: "<Paste the problem description here.>"
@@ -64,7 +66,9 @@ You are an expert in evidence-based practice in healthcare. Please evaluate this
 
 * Text resources: Chapter 3, Appendix B
 
-(Old - see above for updated promts.)Prompt: Evaluate the problem statement according to JHEBP5
+#### Previous prompts for AI Assistance
+
+(Old - see above for updated promts.) Prompt: Evaluate the problem statement according to JHEBP5
 
 ```
 You are an expert in evidence-based practice in healthcare. Please evaluate this problem statement according to JHEBP 5th Edition guidelines for a problem statement. What elements of the problem statement are present and well-described? What elements of the problem statement are missing or are not described in sufficient detail to be helpful in completing the steps of the JHEBP 5th Edition process? Please provide rationale for your statements and quote passages from the text that support your assertions. Please provide the full text for the quotations page numbers for the quotations. Please suggest ways to improve the problem statement. Here is the problem statement: "<Paste the problem statement here.>"
@@ -79,7 +83,9 @@ You are an expert in evidence-based practice in healthcare. Please evaluate this
 
 * Text resources: Chapter 4, Appendix B
 
-(Old - see above for updated promts.)Prompt: Get help writing broad EBP questions
+#### Previous prompts for AI Assistance
+
+(Old - see above for updated promts.) Prompt: Get help writing broad EBP questions
 
 ```
 You are an expert in evidence-based practice in healthcare. Based on the problem description provided, suggest several broad evidence-based practice questions.
@@ -87,7 +93,7 @@ In addition, please list several interventions that may be applicable to each br
 Here is the problem description: "<Paste problem description here.>"
 ```
 
-(Old - see above for updated promts.)Prompt: Get help writing practice EBP questions
+(Old - see above for updated promts.) Prompt: Get help writing practice EBP questions
 
 ```
 You are an expert in evidence-based practice in healthcare. Based on the problem description provided, suggest several intervention evidence-based practice questions using interventions you suggest based on the problem description.
@@ -95,7 +101,7 @@ In addition, please list a justification why you feel the intervention is worth 
 Here is the problem description: "<Paste problem description here.>"
 ```
 
-(Old - see above for updated promts.)Prompt: Evaluate an EBP question
+(Old - see above for updated promts.) Prompt: Evaluate an EBP question
 
 ```
 You are an expert in evidence-based practice in healthcare. Please evaluate this EBP question. First, please classify the EBP question as a broad EBP question or a practice EBP question. Please provide rationale for your classification. Please provide full quotes from the text that support your rationale and provide page numbers for the quotes. Are there any types of literature that may be overlooked when this this EBP question is used in a literature search? Please suggest ways the EBP question could be improved. Here is the EBP question: "<Paste the EBP question here.>"
@@ -112,7 +118,9 @@ You are an expert in evidence-based practice in healthcare. Please evaluate this
 
 ## 4.1 Action Item 1: Identify the Elements of the EBP Questions to Search (Ch. 7 p. 95)
 
-(Old - see above for updated promts.)Prompt: Get suggestions for sources of pre-appraised evidence and best search elements for each source
+#### Previous prompts for AI Assistance
+
+(Old - see above for updated promts.) Prompt: Get suggestions for sources of pre-appraised evidence and best search elements for each source
 ```
 You are an expert in healthcare quality improvement with extensive expertise in searching for literature. I am performing a best-evidence search for an EBP question I will provide. Please provide me a list of resources for pre-appraised evidence most likely to produce evidence relevant to my EBP question. Focus on literature in this order: 1) clinical practice guidelines (CPG); then 2) literature reviews with a systematic approach (LRSA); then 3) evidence summaries. Please list the resources in order of likelihood to have the relevant evidence in descending order of likelihood starting with the scource most likely to have the evidence I'm looking for and continuing to least likely. When available, please provide links to the resources you list. Please help me identify the most relevant elements of the EBP question to search for best evidence for each resource you list. Here is the EBP question: "<Paste EBP question here in quotes.>"
 ```
@@ -128,7 +136,9 @@ You are an expert in healthcare quality improvement with extensive expertise in 
 
 ## 4.4 Action Item 4: Evaluate the Search Results (Ch. 7 p. 97)
 
-(Old - see above for updated promts.)Prompt: Review a best-evidence resource to ensure it addresses all aspects of an EBP question.
+#### Previous prompts for AI Assistance
+
+(Old - see above for updated promts.) Prompt: Review a best-evidence resource to ensure it addresses all aspects of an EBP question.
 ```
 You are an expert in healthcare quality improvement with extensive expertise in searching for and evaluating literature. Please evaluate this best-evidence resource. Please classify it as a clinical practice guideline (CPG), a literature review with a systematic approach (LRSA), an evidence summary, or none of these. Please provide the rationale for your classification. Please provide full quotes from the text that support your classification and provide page numbers for the quotes. Please rate the quality of the best-evidence resource. Does it address all aspects of the EBP question I will provide? Please provide full quotes from the text that identify what parts of the EBP question are addressed in the resource and provide page numbers for the quotations. How well does it address each aspect of the EBP question? Please provide the rationale for your quality rating. Should a targeted literature search be conducted to identify additional evidence that offers new and compelling information that has been published since the search date provided in the pre-appraisal evidence? Please provide the rationale for your recommendation. If so, please suggest places to conduct such a search that may turn up strong or moderate support for decision-making. Here is the EBP question: "<Paste EBP question here in quotes.> "
 ```
@@ -150,7 +160,9 @@ You are an expert in healthcare quality improvement with extensive expertise in 
 
 ### 5.1.1 Action Item 1: Determine Which Databases to Search (Ch. 7 p. 98)
 
-(Old - see above for updated promts.)Prompt: Determine which databases to search
+#### Previous prompts for AI Assistance
+
+(Old - see above for updated promts.) Prompt: Determine which databases to search
 ```
 You are an expert in healthcare quality improvement with extensive expertise in searching for literature. What types of information are needed to answer the EBP question I will provide? Which databases will provide that information? Does my EBP question cross disciplines? Please list relevant search concepts relevant to the EBP question for each database you list. Please create database-specific search strings for each database you list. If possible, when creating search strings, please isolate each element of the EBP question and identify synonyms and alternative spellings for words or phrases listed. If needed, suggest multiple search strings. Please use controlled vocabulary for associated with keywords for individual databases when appropriate. If a database you suggest has the ability to filter or sort search results that may be helpful when reviewing search results for relevant literature, please point that out. Here is the EBP question: "<Paste EBP question here in quotes.> "
 ```
@@ -175,7 +187,9 @@ You are an expert in healthcare quality improvement with extensive expertise in 
 
 * See prompt under 5.1.1.
 
-(Old - see above for updated promts.)Potential follow-up prompt: Suggest revisions or refinements
+#### Previous prompts for AI Assistance
+
+(Old - see above for updated promts.) Potential follow-up prompt: Suggest revisions or refinements
 ```
 The search results seem to have these gaps: "<List gaps here.>" Can you suggest any ways to add attitional keywords in a concept or additional concepts that might address these gaps? <It might also be useful to list the specific database you're searching.>
 ```
@@ -188,7 +202,9 @@ The search results seem to have these gaps: "<List gaps here.>" Can you suggest 
 
 ### 5.2.1 Action Item 1: Establish Inclusion and Exclusion Criteria for the Literature Screening (Ch. 7 p. 110)
 
-(Old - see above for updated promts.)Prompt: Screen search results for relevant literature (You will need to upload a file that contains titles and abstracts for search results. This prompt may need to be revised to format final outputs in the desired way.)
+#### Previous prompts for AI Assistance
+
+(Old - see above for updated promts.) Prompt: Screen search results for relevant literature (You will need to upload a file that contains titles and abstracts for search results. This prompt may need to be revised to format final outputs in the desired way.)
 ```
 You are an expert in healthcare quality improvement with extensive expertise in searching and evaluating literature. I need to screen these search results to identify only the literature that is relevant to answer the EBP question I will provide. Please suggest inclusion and exclusion criteria for screening. Please list the title of each article included in the search results. For each title, please note if the article should be included or excluded. Please provide a rationale for each inclusion/exclusion determination. Please generate a final list of all titles that should be included with ID numbers needed for article retrieval. Here is the EBP question: "<Paste EBP question here in quotes.> "
 ```
@@ -203,7 +219,9 @@ You are an expert in healthcare quality improvement with extensive expertise in 
 
 ### 5.2.4 Action Item 4: Complete Full-Text Screening for All Articles That Remain After Screening the Titles and Abstracts (Ch. 7 p. 112)
 
-(Old - see above for updated promts.)Prompt: Screen the full text of an article. (You will need to upload the article.)
+#### Previous prompts for AI Assistance
+
+(Old - see above for updated promts.) Prompt: Screen the full text of an article. (You will need to upload the article.)
 ```
 You are an expert in healthcare quality improvement with extensive expertise in searching and evaluating literature. I need to screen this article to identify if it is relevant to answer the EBP question I will provide. Please indicate if the article should be included or excluded from the literature review. Please provide the rationale for your response. Please provide full quotes from the text that support your inclusion/exclusion recommendation and rationale and provide page numbers for the quotations. Please list ways the article is a good it and might be considered for inclusion. Please list ways the article is a poor fit she should be considered for exclusion. Here is the EBP question: "<Paste EBP question here in quotes.> "
 ```
@@ -223,7 +241,9 @@ You are an expert in healthcare quality improvement with extensive expertise in 
 
 ## Appendix D Classify the Evidence
 
-(Old - see above for updated promts.)Prompt: Classify the evidence
+#### Previous prompts for AI Assistance
+
+(Old - see above for updated promts.) Prompt: Classify the evidence
 ```
 Please classify the evidence into one of these categories: pre-appraised evidence - clinical practice guideline (CPG), pre-appraised evidence - literature review with a systematic approach (LRSA), pre-appraised evidence - evidence summary, single research study with a formal study design, single quality improvement report with a formal study design, anecdotal evidence - expert opinion, anecdotal evidence - book chapter, anectodal evidence - position statement, anecdotal evidence - case report, anecdotal evidence - programmatic experience, anecdotal evidence - literature reviews without a systematic approach, none of these. Please provide the rationale for that classification. Please provide full quotes from the literature resource that support your classification and provide page numbers for the quotations. Is there any information or content in the evidence that would contradict or weaken the classification. If so, what is the contradictory information? Given the information that supports your classification, and information that contradicts you classification, please rate your confidence in the classification (Extremely Confident, Confident, Somewhat Confident, Not Confident). Please classify the evidence into one of these categories: quantitative, qualitative, or mixed methods. Please provide the rationale for that classification. Please provide full quotes from the literature resource that support your classification and provide page numbers for the quotations. Please classify the level of support into one of these catgories: independent support for decision-making, strong support for decision-making, moderate support for decision-making, limited support for decision-making. Please provide the rationale for that classification. Please provide full quotes from the literature resource that support your classification and provide page numbers for the quotations. Please recommend the most appropriate JHEBP 5th Edition evidence appraisal tool: Appendix E1: Pre-appraised Evidence Appraisal Tool, Appendix E2: Single Study Evidence Appraisal Tool, Appendix E3: Anecdotal Evidence Appraisal Tool. Please provide a rationale for your recommendation.
 ```
@@ -231,7 +251,9 @@ Please classify the evidence into one of these categories: pre-appraised evidenc
 
 ### Section 1 Suitability (only use for independent decision-making evidence)
 
-(Old - see above for updated promts.)Prompt: Evaluate the suitability of pre-appraised evidence to support decision-making for a specific EBP question
+#### Previous prompts for AI Assistance
+
+(Old - see above for updated promts.) Prompt: Evaluate the suitability of pre-appraised evidence to support decision-making for a specific EBP question
 
 ```
 You are an expert in healthcare quality improvement project with extensive expertise in evaluating literature. The Johns Hopkins Evidence-Based Practice 5th edition text defines pre-appraised evidence as a group of individual studies that have undergone a methodical process for collection and evaluation by teams of investigators and content experts for quality and clinical utility. I'm trying to answer this evidence-based practice question: "<Paste EBP question here in quotes.>" Please rate each question about this article as (Yes, No, Unclear, Not Applicable) based on how well it relates to the EBP question. Here are the questions: "Is the topic or intervention the same or similar to the topic of interest? Is the population the same or similar to your population of interest? Is the setting the same or similar to your setting of interest? If applicable, are the outcomes the same or similar to your outcomes of interest? How recent are the references (provide dates)? Are the references recent enough to be reasonably applied to the practice setting (this will depend on the intervention and changing nature of the topic at hand)"
@@ -242,7 +264,7 @@ In addition, after answering all the question, please add some notes about how t
 
 #### Quality Appraisal for Clinical Practice Guideline
 
-(Old - see above for updated promts.)Prompt:
+(Old - see above for updated promts.) Prompt:
 ```
 You are an expert in healthcare quality improvement project with extensive expertise in evaluating literature. The Johns Hopkins Evidence-Based Practice 5th edition text defines pre-appraised evidence as a group of individual studies that have undergone a methodical process for collection and evaluation by teams of investigators and content experts for quality and clinical utility. I'm trying to answer this evidence-based practice question: "<Paste EBP question here in quotes.>" Please rate each question about this article as (Yes, No, Unclear, Not Applicable) based on how well it relates to the EBP question. Here are the questions: "Was the summary produced by a reputable organization? Does the organization use a clear, systematic, and comprehensive method for selecting evidence? Does the organization use a clear, well-established process for evaluating evidence (e .g. rapid review protocol, systematic review)? Is the review question or summary topic clearly stated? Are the details of the included evidence provided (including types of studies, intervention(s), settings, populations, and grading)? Is there a direct and obvious link between recommendations and the provided evidence? Are recommendations clear and complete (including a level of certainty/confidence)? Does the level of certainty/confidence of each of the recommendations align with the evidence used to support them? Did the review undergo an independent peer review? Are funding and conflicts of interest addressed?"
 In addition, after answering all the question, please answer this question and provide your rationale for why you answered this way. Here is the question: "Consider all of your responses above. Do you think the quality of this article is adequate to provide independent support for decision-making?"
@@ -277,7 +299,7 @@ You are an expert in healthcare quality improvement project with extensive exper
 If the answer to all of these question was yes, please rate the level of support for decision-making as "strong". If the study team didn't implement an intervention, or if there was not an explicitely stated and analyzed control group, please rate the level of support for decision-making as "moderate". If this was not report of a single study, or if there was no formal study design, then please rate the level of support for decision-making as "needs re-evaluation".
 ```
 
-(Old - see above for updated promts.)Prompt: collect information if evidence will be considered (Complete after reviewing relevant subsections. Only use if evidence will be considered.)
+(Old - see above for updated promts.) Prompt: collect information if evidence will be considered (Complete after reviewing relevant subsections. Only use if evidence will be considered.)
 
 ```
 You are an expert in healthcare quality improvement project with extensive expertise in evaluating literature. The Johns Hopkins Evidence-Based Practice 5th edition text defines single studies that are rigorous with formal designs and may be described with the terms (randomized control trial, cluster randomized control trial, comparative effectiveness research, clinical trial, cross-over).  I'm trying to answer this evidence-based practice question: "<Paste EBP question here in quotes.>" Please answer each of these questions about the article. Here are the questions: "Who is the article author? What is the article publication date? What is the article title? What type of evidence is this? What is the population? What is the size? What is the setting? What is the intervention? What are the findings that help answer the EBP question? For each finding that answers the EBP question that you list, please provide a full quote from the evidence that is the source for your item and the page number for the quotation. What were the measures used? What were the limitations of the study? What was the level of support for decision-making?"
@@ -311,7 +333,9 @@ In addition, after answering all the question, please answer this question and p
 
 ## Appendix E3
 
-(Old - see above for updated promts.)Prompt: collect information if evidence will be considered (Complete after reviewing relevant subsections. Only use if evidence will be considered.)
+#### Previous prompts for AI Assistance
+
+(Old - see above for updated promts.) Prompt: collect information if evidence will be considered (Complete after reviewing relevant subsections. Only use if evidence will be considered.)
 
 ```
 You are an expert in healthcare quality improvement project with extensive expertise in evaluating literature. The Johns Hopkins Evidence-Based Practice 5th edition text defines anecdotal evidence as expert opinions, book chapters, position statements, case reports, programmatic experiences, and literature reviews without a systematic approach.  I'm trying to answer this evidence-based practice question: "<Paste EBP question here in quotes.>" Please answer each of these questions about the article. Here are the questions: "Who is the article author? What is the article publication date? What is the article title? What type of evidence is this? What is the population? What is the size? What is the setting? What is the intervention? What are the findings that help answer the EBP question? For each finding that answers the EBP question that you list, please provide a full quote from the evidence that is the source for your item and the page number for the quotation. What were the measures used? What were the limitations of the study? What was the level of support for decision-making?"
@@ -360,7 +384,9 @@ In addition, after answering all the question, please answer this question and p
 
 ## Appendix G1 Best-Evidence Summary Tool
 
-(Old - see above for updated promts.)Prompt: Create evidence table
+#### Previous prompts for AI Assistance
+
+(Old - see above for updated promts.) Prompt: Create evidence table
 
 ```
 You are an expert in healthcare quality improvement project with extensive expertise in evaluating literature. The Johns Hopkins Evidence-Based Practice 5th edition text defines pre-appraised evidence as a group of individual studies that have undergone a methodical process for collection and evaluation by teams of investigators and content experts for quality and clinical utility. I'm trying to answer this evidence-based practice question: "<Paste EBP question here in quotes.>" I'm completing Appendix G1 Best-Evidence Summary Tool and creating a table of evidence. Please create a table that uses the following headings and includes a row for the information indicated in each column heading suitable to copy and paste into a spreadsheet for the article. Here are the headings for the table columns: "(Author, date, title of article), (type of evidence), (topic or intervention), (population), (setting), (recommendations that answer the EBP question), (population, size, and setting), (intervention), (Findings that help answer the EBP question), (measures used), (limitations), (moderate or strong support for decision-making), (methodology [select from quantitative, qualitative, mixed-methods]), (design [select from randomized controlled trial, quasi-experimental, interventional, observational, descriptive, correlational]), (timing [select from prospective, retrospective, cross-sectional, longitudinal])"
@@ -368,7 +394,9 @@ You are an expert in healthcare quality improvement project with extensive exper
 
 ## Appendix G2 Individual Evidence Summary Tool
 
-(Old - see above for updated promts.)Prompt: Create evidence table
+#### Previous prompts for AI Assistance
+
+(Old - see above for updated promts.) Prompt: Create evidence table
 
 ```
 You are an expert in healthcare quality improvement project with extensive expertise in evaluating literature. The Johns Hopkins Evidence-Based Practice 5th edition text defines individual evidence as an individual study with a strong formal study design, an individual study with a weaker less formal study design, or anecdotal evidence. I'm trying to answer this evidence-based practice question: "<Paste EBP question here in quotes.>" I'm completing Appendix G2 Individual Evidence Summary Tool and creating a table of evidence. Please create a table that uses the following headings and includes a row for the information indicated in each column heading suitable to copy and paste into a spreadsheet for the article. Here are the headings for the table columns: "(Author, date, title of article), (type of evidence), (topic or intervention), (population), (setting), (findings that help answer the EBP question), (limitations), (level of support for decision-making), (measures used), (reviews [select from systematic, integrative, rapid, umbrella, scoping, critical, literature, not applicable]), (methodology [select from quantitative, qualitative, mixed-methods]), (design [select from randomized controlled trial, quasi-experimental, interventional, observational, descriptive, correlational]), (timing [select from prospective, retrospective, cross-sectional, longitudinal]), (other [select from expert opinion, book chapter, position statement, programatic experience])"
@@ -386,6 +414,8 @@ You are an expert in healthcare quality improvement project with extensive exper
 ## Appendix H Summary, Synthesis, & Best-Evidence Recommendations Tool
 
 ### Comprehensive Prompt (I don't care for this one much. Keeping it here for reference because I like parts of it.)
+
+#### Previous prompts for AI Assistance
 
 (Old - see above for updated promts.) Prompt: Synthesized findings & Best-evidence recommendations (repeat this for groups of articles based on support for decision-making rating: strong articles, moderate articles, limited articles)
 
