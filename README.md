@@ -653,8 +653,9 @@ You are an expert in healthcare quality improvement project with extensive exper
 <details>
   <summary>Expand to see resources</summary>
 
-* Text resources: Chapter 9; Appendix H
-* See prompt under 8.
+## Johns Hopkins Evidence-Based Practice, Fifth Edition: Completing Appendix H
+
+See the explanations and resources listed under #8.
 
 </details>
 
@@ -663,8 +664,9 @@ You are an expert in healthcare quality improvement project with extensive exper
 <details>
   <summary>Expand to see resources</summary>
 
-* Text resources: Chapter 9; Appendix H
-* See prompt under 8
+## Johns Hopkins Evidence-Based Practice, Fifth Edition: Completing Appendix H
+
+See the explanations and resources listed under #8.
 
 </details>
 
