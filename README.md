@@ -30,6 +30,26 @@ Appendix B provides space for an updated question. **Chapter 7, “Evidence Phas
 
 **Suggested reading order:** Appendix A → Chapter 3 → Chapter 4 → Appendix B. Use Chapter 2 for an overview; consult Chapter 7 and Appendix C when testing or revising the question through a preliminary evidence search.
 
+### Process for Completing Appendix B
+
+# Process for Completing Appendix B
+
+*Johns Hopkins Evidence-Based Practice for Nurses and Healthcare Professionals: Model & Guidelines*, fifth edition (2025)
+
+The eight steps below are a practical workflow drawn from the textbook; they are not numbered this way in the book. Page numbers refer to the **printed textbook pages**.
+
+| Step | What to do | Where to read |
+| --- | --- | --- |
+| **1. Describe the local problem** | Record what is happening in the team's setting. Bullets or short phrases are sufficient initially. | **Chapter 3, pp. 44–45; Appendix B, pp. 212, 214** |
+| **2. Explain why it matters** | Identify who is affected and the consequences of leaving the problem unresolved. | **Chapter 3, p. 51; Appendix B, pp. 212, 214** |
+| **3. Document current practice and local data** | Describe existing practice and add concrete evidence of the gap, such as quality or safety measures. | **Chapter 3, pp. 44, 51; Appendix B, pp. 212, 214** |
+| **4. Write the problem statement** | Summarize the population, problem, and impact in one or two concise sentences without prescribing a solution. | **Chapter 3, pp. 47–48, 51; Appendix B, pp. 212, 214** |
+| **5. Choose broad or intervention** | Use a broad question to explore best practices across a topic; use an intervention question to examine a specific intervention and outcome. | **Chapter 4, pp. 58–60, 62; Appendix B, pp. 212, 214** |
+| **6. Identify question elements** | Specify the population, setting, and topic or intervention. Add the outcome and any comparison when applicable. | **Chapter 4, pp. 59–60; Appendix B, pp. 213, 215** |
+| **7. Draft and check the EBP question** | Use Appendix B's template for the selected question type. Check that the question addresses the problem and can guide an evidence search. | **Chapter 4, pp. 58–60; Appendix B, pp. 213, 215** |
+| **8. Search briefly and revise if needed** | After an initial evidence review, refine the question's scope, terminology, or outcome and record the revision in Appendix B. | **Chapter 4, p. 62; Appendix B, pp. 213, 215** |
+
+The most direct companion to this table is **Appendix B's field-by-field instructions on pp. 214–215**. Chapter 3 supports the problem-focused steps; Chapter 4 supports question construction and review.
 
 (Old - see above for updated promts.)Prompt: Evaluate a problem description according to JHEBP5
 
