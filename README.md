@@ -676,7 +676,42 @@ See the explanations and resources listed under #8.
 <details>
   <summary>Expand to see resources</summary>
 
-* Text resources: Chapter 10; Appendix I
+## Johns Hopkins Evidence-Based Practice, Fifth Edition: Completing Appendix I
+
+The page numbers below are **printed textbook pages**, which may differ from a PDF viewer's page count. **Chapter 10 and Appendix I are the primary instructions.** Appendix I takes the evidence-based recommendations from Appendix H and evaluates how they apply in a particular organization.
+
+### Resources for completing Appendix I
+
+| Resource | Printed pages | How it helps |
+|---|---:|---|
+| Chapter 8, *Appraising the Evidence* | 119–131 | Provides background on the quality and support of the evidence underlying the recommendations. |
+| Chapter 9, *Summary, Synthesis, and Best-Evidence Recommendations* | 133–143; especially 139–142 | Explains the four **certainty categories** assigned to individual recommendations in Appendix H. |
+| **Chapter 10, *Translation Phase: Translation*** | **147–153** | The main discussion of assessing certainty (p. 149), safety risk (p. 150), fit and feasibility (p. 151), acceptability (p. 152), and recording recommendations specific to the organization (p. 153). |
+| Appendix B, *Question Development Tool* | 212–215 | Keeps the organization-specific recommendation tied to the EBP question. |
+| Appendices G1 or G2 | G1: 266–270; G2: 272–274 | Allow the team to trace a recommendation back to the evidence summary when checking its applicability. |
+| **Appendix H, *Summary, Synthesis, & Best-Evidence Recommendations Tool*** | **278–282** | Supplies each best-evidence recommendation and its certainty category—the starting inputs for Appendix I. |
+| **Appendix I, *Translation Tool*** | **286–287** | The form and its instructions for considering **certainty, risk, fit, feasibility, and acceptability**, then recording organization-specific recommendations. |
+| Chapter 11 and Appendix J | Ch. 11: 157–169; App. J: 290–294 | Guide the **subsequent implementation planning** if Appendix I supports moving forward with a change. |
+
+### A process for completing Appendix I
+
+Work through the considerations **for each relevant recommendation in Appendix H**. Appendix I provides prompts for the assessment and space to record the team's resulting organization-specific recommendations; the table below turns those prompts into a workable sequence.
+
+| Step | What to do | Relevant chapters and printed pages |
+|---|---|---|
+| 1. Bring forward the recommendations | Place the exact EBP question and Appendix H beside Appendix I. List each best-evidence recommendation, its **individual certainty category**, and the practice setting where it might be applied. Check G1 or G2 if the team needs to clarify what the supporting evidence studied. | Ch. 9, pp. 139–142; Ch. 10, pp. 148–149; Apps. B, pp. 212–215, G1, pp. 266–270, or G2, pp. 272–274; Apps. H, pp. 279–282, and I, p. 286 |
+| 2. Assess certainty | Determine whether each recommendation has **high or reasonable certainty**. Appendix I states that reasonable-to-low and low certainty do not provide adequate support to change current practice. Document when a proposal must await stronger evidence or needs another course of action. | Ch. 9, pp. 139–142; Ch. 10, pp. 149–150; Apps. H, pp. 279–282, and I, pp. 286–287 |
+| 3. Assess safety risk | Identify possible negative effects on patients, staff, or the environment and consider how the team could reduce them. Chapter 10 calls for a risk assessment and explains that a **higher-risk intervention requires higher-certainty evidence**; a small test may be appropriate in some circumstances. | Ch. 10, p. 150; App. I, pp. 286–287 |
+| 4. Assess fit | Compare the proposed change with existing practice and workflow, as well as organizational and end-user **values, norms, goals, and skills**. Identify any adaptations needed for the local setting without losing the recommendation's essential purpose. | Ch. 10, p. 151; App. I, pp. 286–287 |
+| 5. Assess feasibility | Determine whether the practice environment is ready and the change is doable. Check staffing, skills, materials, budget, decision-maker support, and whether barriers can realistically be overcome. Obtain local input when the team needs it to judge these conditions. | Ch. 10, pp. 151–152; App. I, pp. 286–287 |
+| 6. Assess acceptability | Ask the people affected—including patients or other end users where relevant, frontline staff, and leaders—whether they regard the change as agreeable and reasonable. Check its alignment with organizational priorities and record significant objections or conditions for support. | Ch. 10, pp. 151–152; App. I, pp. 286–287 |
+| 7. Record the organization-specific recommendation | Weigh **certainty, risk, fit, feasibility, and acceptability together**. In Appendix I's final space, write a concise decision that answers the EBP question **for this setting**. The decision may support a locally adapted change, defer it pending more evidence or readiness, or recommend stopping an unsupported current practice. If a proposed change cannot proceed, record why. | Ch. 10, pp. 148–153; Apps. H, pp. 279–282, and I, pp. 286–287 |
+| 8. Prepare the handoff | Review the wording with the team and relevant impacted groups so the decision and its rationale are clear. If the team proceeds, use that organization-specific recommendation as the input to implementation and action planning. | Ch. 10, p. 153; Ch. 11, pp. 157–159; Apps. I, pp. 286–287, and J, pp. 290–294 |
+
+**The distinction to preserve:** Appendix H states what the evidence supports; Appendix I records what the team recommends **in its own setting** after assessing safety and local conditions (Ch. 10, pp. 148–153; App. I, pp. 286–287).
+
+
+
 * Run prompt under 8.
 * Run this prompt as a follow-up.
 
