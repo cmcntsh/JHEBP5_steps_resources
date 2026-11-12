@@ -104,12 +104,12 @@ You are an expert in healthcare quality improvement with extensive expertise in 
 
 # 5. (Evidence) Conduct targeted search or exhaustive search and screening
 
+<details>
+  <summary>Expand to see resources</summary>
+
 * Text resources: Chapter 6,7; Appendix C
 
 ## 5.1 Search
-
-<details>
-  <summary>Expand to see resources</summary>
 
 ### 5.1.1 Action Item 1: Determine Which Databases to Search (Ch. 7 p. 98)
 
