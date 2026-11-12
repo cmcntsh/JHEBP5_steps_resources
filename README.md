@@ -585,7 +585,42 @@ You are an expert in healthcare quality improvement project with extensive exper
 <details>
   <summary>Expand to see resources</summary>
 
-* Text resources: Chapter 9; Appendix H
+## Johns Hopkins Evidence-Based Practice, Fifth Edition: Completing Appendix H
+
+The page numbers below are **printed textbook pages**, which may differ from a PDF viewer's page count. **Chapter 9 and Appendix H are the primary instructions.** The other resources establish the question, search pathway, included evidence, and support classifications that Appendix H uses.
+
+### Resources for completing Appendix H
+
+| Resource | Printed pages | How it helps |
+|---|---:|---|
+| Chapter 6, *Introduction to Evidence* | 79–91 | Explains the types of evidence contributing to the summary. |
+| Chapter 7, *The Evidence Search and Screening* | 93–117 | Establishes whether the team used a best-evidence and targeted search or an exhaustive search. |
+| Chapter 8, *Appraising the Evidence* | 119–131 | Explains quality adequacy and levels of support for decision-making. |
+| **Chapter 9, *Summary, Synthesis, and Best-Evidence Recommendations*** | **133–143** | Explains organizing evidence (p. 137), synthesizing findings (pp. 138–139), and developing recommendations for either search pathway (pp. 139–143). |
+| Appendices B and C | 212–215; 218–223 | Provide the EBP question and search record used to check relevance and select the appropriate Appendix H pathway. |
+| Appendix D and Appendices E1–E3 | 226–227; 230–247 | Document evidence classification, appraisal, inclusion decisions, and support levels underlying the summary. |
+| Appendix F, *Evidence Terminology and Considerations Guide* | 250–263 | Clarifies evidence and appraisal terminology. |
+| **Appendix G1 or G2** | **G1: 266–270; G2: 272–274** | Supplies the completed evidence summary from which Appendix H is developed. |
+| **Appendix H, *Summary, Synthesis, & Best-Evidence Recommendations Tool*** | **278–282** | Contains Section I for G2 findings, Section II for recommendations, and instructions for both. |
+
+### A process for completing Appendix H
+
+**First establish the route:** If the team used **G2 after an exhaustive search**, complete **Sections I and II**. If it used **G1 for pre-appraised evidence, with or without a targeted search**, **skip Section I and complete Section II**. The team can still compare targeted-search studies in G1 before writing its recommendations (Ch. 9, pp. 139–140; App. H, pp. 280–281).
+
+| Step | What to do | Relevant chapters and printed pages |
+|---|---|---|
+| 1. Confirm the question and search pathway | Put the exact EBP question, Appendix C search record, and completed G1 **or** G2 beside Appendix H. Decide which H sections apply using the route above. | Ch. 7, pp. 93–98, 109–113; Ch. 9, pp. 134–135, 139–140; Apps. B, pp. 212–215, C, pp. 218–223, G1, pp. 266–270, G2, pp. 272–274, H, pp. 278–281 |
+| 2. Check the evidence entering H | Confirm that summary entries are relevant, adequately appraised, and assigned defensible support levels. Resolve incomplete entries and reviewer disagreements before synthesizing. Keep excluded, inadequate-quality sources out of the evidence body. | Ch. 8, pp. 120–129; Ch. 9, pp. 134–135, 139; App. D, pp. 226–227; Apps. E1–E3, pp. 230–247 |
+| 3. Organize the findings | For a **G2** project, group included sources by **strong, moderate, and limited** support. Compare the outcomes, populations, interventions, and limitations relevant to the question. Note agreements, contradictions, null findings, and possible subgroups. For a **G1** project, compare any targeted-search studies with the pre-appraised recommendations. | Ch. 9, pp. 137–139; Apps. G1, pp. 266–269, G2, pp. 272–273, H, pp. 278, 280 |
+| 4. Complete **Section I if using G2** | Enter the **number of sources** in each support row. In each row, write concise statements that combine findings across sources and attach the supporting **article numbers**. Repeat for strong, moderate, and limited support, including conflicting or negative findings. A row with no sources should record zero without inventing a finding. | Ch. 9, pp. 138–139; App. G2, pp. 272–273; App. H, pp. 278, 280 |
+| 5. Use the optional further-synthesis area when helpful | If another comparison reveals a meaningful pattern, use H's optional area to describe it—for example, differences by population, intervention component, setting, or outcome. Keep the supporting article numbers traceable. | Ch. 9, pp. 137–139; App. H, pp. 278, 280 |
+| 6. Mark the evidence basis in **Section II** | Select the applicable box or boxes: pre-appraised evidence from a best-evidence search; supplementary studies from a targeted search; or evidence appraised after an exhaustive search. Select all that describe the work actually completed. | Ch. 9, pp. 140, 142; App. H, pp. 279, 281 |
+| 7. Draft recommendations that answer the question | Write a separate, succinct recommendation for each practice or intervention supported by the evidence. For **G1**, map the pre-appraised source's stated confidence or certainty to H's categories, then determine whether compelling targeted-search findings warrant an update. For **G2**, derive recommendations from Section I's synthesis. Recommendations can support **or oppose** a practice when the evidence warrants it. | Ch. 9, pp. 139–143; App. G1, pp. 266–269; App. H, pp. 279, 281–282 |
+| 8. Assign certainty **to each recommendation** | Place each recommendation in the matching **high**, **reasonable**, **reasonable-to-low**, or **low** certainty row. Consider the relevant evidence's quality, quantity, consistency, directness, and persuasiveness. Show conflicting or insufficient evidence in the lower-certainty rows as appropriate; do not assign one certainty level to the whole project or infer high certainty merely from a source count. | Ch. 9, pp. 139–142; App. H, pp. 279, 281–282 |
+| 9. Review the completed tool as a team | Reconcile Section I counts with the included G2 rows, check that every synthesis statement has the right article numbers, and confirm that each recommendation answers the EBP question and sits in a defensible certainty tier. Keep recommendations based on the evidence at this stage; assessment of the organization's setting belongs to the subsequent translation phase. | Ch. 9, pp. 139–143; Apps. G2, pp. 272–273, H, pp. 278–282 |
+
+**Key distinction:** *Support for decision-making* describes the contribution of a source or study design; *certainty* describes **an individual recommendation** after the team considers the relevant body of evidence (Ch. 8, pp. 120–122; Ch. 9, pp. 139–140).
+
 
 ## Appendix H Summary, Synthesis, & Best-Evidence Recommendations Tool
 
