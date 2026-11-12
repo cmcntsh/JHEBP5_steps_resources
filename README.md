@@ -118,7 +118,44 @@ You are an expert in evidence-based practice in healthcare. Please evaluate this
 <details>
   <summary>Expand to see resources</summary>
 
-* Text resources: Chapter 6,7; Appendix C
+## Resources and Process for Completing Appendix C
+
+*Johns Hopkins Evidence-Based Practice for Nurses and Healthcare Professionals: Model & Guidelines*, fifth edition (2025)
+
+**Chapter 7 and Appendix C are the principal instructions for completing Appendix C, the Searching and Screening Tool.** The other sections below supply the EBP question, explain the search decision, or guide appraisal of pre-appraised evidence. Page numbers refer to **printed textbook pages**, not PDF page numbers.
+
+### Chapters and appendices to consult
+
+| Resource | How it helps |
+| --- | --- |
+| **Chapter 2, process overview, pp. 29–30** | Places the best-evidence search and the targeted-or-exhaustive decision in the JHEBP process. |
+| **Chapter 4, “Practice Question Phase: The EBP Question,” pp. 58–60** | Explains the question elements that become search concepts. |
+| **Chapter 6, “Evidence Phase: Introduction to Evidence,” pp. 81–85** | Identifies pre-appraised evidence, including clinical practice guidelines, literature reviews with a systematic approach, and evidence summaries. |
+| **Chapter 7, “Evidence Phase: The Evidence Search and Screening,” pp. 93–115** | Gives the detailed methods for best-evidence and exhaustive searches, search strings, documentation, eligibility criteria, and screening. **This is the principal companion chapter.** |
+| **Chapter 8, “Evidence Phase: Appraising the Evidence,” especially pp. 122–126** | Explains how to judge whether pre-appraised evidence is suitable for the EBP question and of adequate quality—the decision needed in Appendix C, Section II. |
+| **Appendix A, “EBP Project Steps and Overview,” pp. 208–209** | Identifies the search steps and provides the evidence-phase decision tree. |
+| **Appendix B, “Question Development Tool,” pp. 212–215** | Supplies the completed question and its population, setting, topic or interventions, and possible outcomes for transfer to Appendix C. |
+| **Appendix C, “Searching and Screening Tool,” pp. 218–223** | Contains the form on pp. 218–220 and **field-by-field instructions on pp. 221–223**. |
+| **Appendix E1, “Pre-appraised Evidence Appraisal Tool,” pp. 230–233** | Provides the appraisal required before marking pre-appraised evidence suitable and of adequate quality in Appendix C, Section II. |
+
+### Process for completing Appendix C
+
+The steps below are a practical way to work through the form; they are **not** a separately numbered textbook procedure. The targeted and exhaustive routes branch after Step 4.
+
+| Step | What to do | Where to read |
+| --- | --- | --- |
+| **1. Start with the completed EBP question** | Confirm the question is ready to guide a search and that the project is proceeding through the evidence phase. Use the decision tree for orientation. | **Chapter 2, pp. 29–30; Appendix A, pp. 208–209; Appendix B, pp. 212–215** |
+| **2. Complete Section I: key question elements** | Transfer the population, setting, and topic or interventions from Appendix B. Record outcomes if the team intends to include them in the literature search. | **Chapter 4, pp. 59–60; Chapter 7, pp. 94–95; Appendix B, p. 213; Appendix C, pp. 218, 221** |
+| **3. Conduct the best-evidence search in Section II** | Look for relevant clinical practice guidelines, literature reviews with a systematic approach, and evidence summaries. Record whether potentially relevant pre-appraised evidence exists. | **Chapter 6, pp. 81–85; Chapter 7, pp. 95–97; Appendix C, pp. 218, 221** |
+| **4. Appraise pre-appraised evidence and choose a path** | Use Appendix E1 to assess suitability for the question and adequacy of quality. Return to Section II: suitable, adequate evidence leads to a targeted update search; otherwise proceed to Section III's exhaustive search. | **Chapter 8, pp. 122–126; Appendix A, p. 209; Appendix C, pp. 218, 221; Appendix E1, pp. 230–233** |
+| **5. If suitable pre-appraised evidence exists: conduct a targeted update search** | Search for relevant newer evidence published since the **search date within the pre-appraised source**. Keep a record of the targeted search. Section III is specifically titled “Exhaustive Search and Screening,” so do not label a targeted search as exhaustive. | **Chapter 2, pp. 29–30; Chapter 7, p. 98; Appendix A, p. 209; Appendix C, pp. 218, 221** |
+| **6. Otherwise: plan Section III's exhaustive search** | Build search concepts and synonyms from the EBP question; choose appropriate databases; agree on inclusion and exclusion criteria; and justify the date limit. Do not apply an automatic five-year cutoff. | **Chapter 7, pp. 98–105, 107, 110–111; Appendix C, pp. 218–219, 221–222** |
+| **7. Run, refine, and document the exhaustive search** | Record the official search date, exact search string for each database, and number of results. Document changes to terms, limits, or search strings as the search is refined. | **Chapter 7, pp. 105–108; Appendix C, pp. 219, 222** |
+| **8. Screen the exhaustive-search results systematically** | Record the tracking method, reviewers, and method for resolving disagreements. Chapter 7 recommends at least two independent reviewers. Remove duplicate records, screen titles and abstracts, and then assess the remaining full texts against the agreed criteria. | **Chapter 7, pp. 109–112; Appendix C, pp. 219–223** |
+| **9. Complete and reconcile the Section III flow chart** | Enter total results from database and hand searching, duplicates, records screened at each stage, exclusions, and records remaining for summary and synthesis. Confirm each stage's starting count minus exclusions equals the count entering the next stage. Quality appraisal follows screening. | **Chapter 7, pp. 112–113; Appendix C, pp. 220, 223** |
+
+**Reading order:** Appendix C, pp. 218–223 → Chapter 7, pp. 93–113 → Chapter 8 and Appendix E1 when Section II calls for appraisal.
+
 
 ## 4.1 Action Item 1: Identify the Elements of the EBP Questions to Search (Ch. 7 p. 95)
 
@@ -158,7 +195,9 @@ You are an expert in healthcare quality improvement with extensive expertise in 
 <details>
   <summary>Expand to see resources</summary>
 
-* Text resources: Chapter 6,7; Appendix C
+## Resources and Process for Completing Appendix C
+
+See the resources and steps listed under #4.
 
 ## 5.1 Search
 
