@@ -280,7 +280,43 @@ You are an expert in healthcare quality improvement with extensive expertise in 
 <details>
   <summary>Expand to see resources</summary>
 
-* Text resources: Chapter 8; Appendix D, E1, E2, E3, F
+## Resources and Process for Following Appendix D
+
+*Johns Hopkins Evidence-Based Practice for Nurses and Healthcare Professionals: Model & Guidelines*, fifth edition (2025)
+
+**Chapter 8 and Appendix D are the main guides for following the Appraisal Tool Selection Algorithm.** Chapter 6 explains the evidence types; Appendices E1–E3 provide the appraisal tool for each route. Appendix D is a **decision tree**, rather than a worksheet to fill in. Page numbers below refer to **printed textbook pages**, which may differ from PDF page numbers.
+
+### Chapters and appendices to consult
+
+| Resource | How it helps |
+| --- | --- |
+| **Chapter 6, “Evidence Phase: Introduction to Evidence,” pp. 81–89** | Distinguishes pre-appraised evidence, formal single studies, and anecdotal evidence; explains qualitative, quantitative, and mixed methods. |
+| **Chapter 8, “Evidence Phase: Appraising the Evidence,” pp. 119–129** | Explains the algorithm's categories, levels of support for decision-making, study designs, and the separate quality appraisal. **This is the principal companion chapter.** |
+| **Appendix D, “Appraisal Tool Selection Algorithm,” pp. 226–227** | Contains the two decision trees: one begins with guidelines, reviews, and evidence summaries; the other distinguishes formal single studies from anecdotal evidence and identifies strong versus moderate support. |
+| **Appendix E1, “Pre-appraised Evidence Appraisal Tool,” pp. 230–233** | Provides suitability and quality checks for qualifying pre-appraised evidence. |
+| **Appendix E2, “Single Study Evidence Appraisal Tool,” pp. 236–242** | Provides the single-study design decision and qualitative, quantitative, or mixed-methods quality checklist. |
+| **Appendix E3, “Anecdotal Evidence Appraisal Tool,” pp. 244–247** | Provides quality checklists for anecdotal evidence, including nonsystematic reviews and other applicable subtypes. |
+| **Appendix F, “Evidence Terminology and Considerations Guide,” pp. 250–263** | Defines appraisal and study-design terms when a branch of the algorithm is unclear. |
+
+**Useful preparation:** Appendix A places appraisal within the evidence phase (pp. 208–209); Appendix B supplies the EBP question for judging suitability (pp. 212–215); and Chapter 7 and Appendix C explain the search and screening that identify articles for appraisal (Chapter 7, pp. 109–113; Appendix C, pp. 218–223).
+
+### Process for following Appendix D
+
+Apply the decision tree **to each source individually**. The steps below turn its branches into a working sequence; they are not numbered this way in the textbook.
+
+| Step | What to do | Where to read |
+| --- | --- | --- |
+| **1. Gather the source and the EBP question** | Read enough of the full source, including methods or supplements when available, to judge what the authors actually did. Keep the EBP question at hand for the later suitability check. | **Chapter 8, pp. 120–123; Appendix B, pp. 213–215; Appendix D, pp. 226–227** |
+| **2. Start at Appendix D's first decision** | Determine whether the source is a clinical practice guideline, literature review, or evidence summary. If yes, follow the tree on p. 226. If no, move to the single-study-or-anecdotal tree on p. 227. | **Chapter 6, pp. 81–85, 87–89; Appendix D, pp. 226–227** |
+| **3. For a guideline, review, or summary, examine its methods** | Check for a systematic, rigorous approach: a planned method, clear question and eligibility criteria, documented search, appraisal of included evidence, and interpretable synthesis. Consult supplemental methods if necessary. A qualifying source takes the **pre-appraised/E1** route; a nonsystematic review takes the **anecdotal/E3** route. | **Chapter 6, p. 84; Chapter 8, pp. 122–126; Appendix D, p. 226; Appendix E1, pp. 230–233; Appendix E3, pp. 244–247** |
+| **4. For other sources, decide whether there is a formal single-study design** | Examine whether the investigation was planned and used systematic data collection and analysis, identifiable methods, and reported results. Do not classify a narrative experience as a formal study solely because it reports outcomes. If there is no formal design, follow the **anecdotal/E3** route. | **Chapter 6, pp. 85–89; Chapter 8, pp. 126–129; Appendix D, p. 227; Appendix E3, pp. 244–247** |
+| **5. For a formal single study, check whether investigators implemented an intervention** | If they did **not** implement an intervention, the p. 227 tree routes the study to **moderate support** and Appendix E2. If they did, continue to the control-group question. | **Chapter 8, pp. 126–129; Appendix D, p. 227; Appendix E2, p. 236** |
+| **6. Check for an explicitly stated *and analyzed* control group** | An investigator-implemented intervention **with** such a control group routes to **strong support**. An intervention **without** one routes to **moderate support**. Both routes use Appendix E2. Randomization is not required for the strong-support branch. | **Chapter 8, pp. 121, 126–129; Appendix D, p. 227; Appendix E2, p. 236; Appendix F, pp. 250–263** |
+| **7. Use the appraisal tool identified by the route** | For E1, assess suitability to the EBP question and quality. For E2, select the qualitative, quantitative, or mixed-methods checklist and assess quality. For E3, select the checklist matching the anecdotal subtype. | **Chapter 6, pp. 86–89; Chapter 8, pp. 122–123, 126, 129; Appendix E1, pp. 230–233; Appendix E2, pp. 236–242; Appendix E3, pp. 244–247** |
+| **8. Record the decision and its rationale** | Document the evidence type, applicable subtype or study design, provisional level of support, selected tool, and the article details that justify each branch. Decide separately whether quality is adequate for inclusion. Chapter 8 does **not** use the former A/B/C letter quality ratings. | **Chapter 8, pp. 120–123, 126–129; Appendix D, pp. 226–227; applicable Appendix E1, E2, or E3** |
+
+**Key distinction:** Appendix D selects the evidence route and appraisal tool. The selected E1, E2, or E3 tool then determines whether the source is suitable and of adequate quality to inform the project.
+
 
 ## Appendix D Classify the Evidence
 
