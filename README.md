@@ -508,7 +508,53 @@ In addition, after answering all the question, please answer this question and p
 <details>
   <summary>Expand to see resources</summary>
 
-* Text resources: Chapter 9; Appendix F, G1, G2
+## Johns Hopkins Evidence-Based Practice, Fifth Edition: Completing Appendices G1 and G2
+
+The page numbers below are **printed textbook pages**; a PDF viewer may show different page numbers. **Chapter 9 is the main explanation** of evidence summaries, and each appendix provides its own table and column instructions.
+
+### Resources for completing G1 and G2
+
+| Resource | Printed pages | Why consult it |
+|---|---:|---|
+| Chapter 6, *Introduction to Evidence* | 79–91 | Identify the evidence type, including pre-appraised evidence, formal studies, and anecdotal evidence. |
+| Chapter 7, *The Evidence Search and Screening* | 93–117 | Distinguish a best-evidence search and targeted update (especially pp. 95–98) from an exhaustive search and screening. |
+| Chapter 8, *Appraising the Evidence* | 119–131 | Determine suitability, quality adequacy, and support for decision-making before including a source in either summary. |
+| **Chapter 9, *Summary, Synthesis, and Best-Evidence Recommendations*** | **133–145; especially 134–135** | Explains how to choose G1 or G2, extract relevant information, resolve reviewer differences, and prepare the summary for synthesis. |
+| Appendices B and C | 212–215; 218–223 | Keep the EBP question and documented search and screening decisions available while selecting and describing evidence. |
+| Appendix D and Appendices E1–E3 | 226–227; 230–247 | Select the appropriate appraisal tool, complete the appraisal, and carry forward only relevant evidence judged to be of adequate quality. |
+| Appendix F, *Evidence Terminology and Considerations Guide* | 250–263 | Check terminology when describing study designs and evidence types. |
+| **Appendix G1, *Best-Evidence Summary Tool*** | **266–270** | The G1 form is on pp. 266–267; column instructions are on pp. 268–269, with an evidence-type word bank on p. 270. |
+| **Appendix G2, *Individual Evidence Summary Tool*** | **272–274** | The G2 form is on p. 272; column instructions are on p. 273 and an evidence-type word bank is on p. 274. |
+| Appendix H, *Summary, Synthesis, & Best-Evidence Recommendations Tool* | 278–282 | Shows how the finished G1 or G2 summary feeds the next step. |
+
+**Choose the form by search pathway:** G1 is for a best-evidence search using suitable pre-appraised evidence, with any supplementary strong or moderate evidence from a targeted search. G2 is for included evidence gathered through an exhaustive search, which may comprise pre-appraised evidence that does not fully answer the question, single studies, and anecdotal evidence (Ch. 9, pp. 134–135).
+
+### Process for Appendix G1: Best-Evidence Summary
+
+| Step | What to do | Relevant chapters and printed pages |
+|---|---|---|
+| 1. Confirm the G1 pathway | Verify that the team has suitable, adequately appraised pre-appraised evidence from its best-evidence search. Establish whether a targeted search found additional evidence since the pre-appraised source's search date. | Ch. 7, pp. 95–98; Ch. 8, pp. 122–126; Ch. 9, pp. 134–135; Apps. C, pp. 218–223, and E1, pp. 230–233 |
+| 2. Agree on included sources | Use the completed appraisals to confirm relevance and adequate quality. Have independent reviewers resolve disagreements about inclusion and the information to record. Leave inadequate-quality sources out of G1. | Ch. 8, pp. 120–126; Ch. 9, p. 135; Apps. D, p. 226, and E1, pp. 230–233 |
+| 3. Fill **Section I: Pre-Appraised Evidence** | Give each included resource a unique article number. Record the organization or authors, date and title, type of pre-appraised evidence, topic or intervention, population, setting, and recommendations that **directly answer the EBP question**. Capture the applicable recommendations rather than every recommendation in a broad guideline. | App. B, pp. 212–215; Ch. 9, pp. 134–135; App. G1, pp. 266, 268 |
+| 4. Decide whether Section II is needed | Answer G1's question about additional evidence identified in the targeted search. If none was identified, follow the form's direction to proceed to **Section II of Appendix H**. If additional evidence was identified, include in G1 Section II only relevant, adequately appraised sources providing **strong or moderate** support. | Ch. 7, p. 98; Ch. 9, p. 135; App. G1, p. 267; App. H, pp. 278–282 |
+| 5. Fill **Section II: Reports of Single Studies From the Targeted Evidence Search** | For each eligible report, record its unique number, reviewers, citation, evidence type, population/size/setting, intervention, question-relevant findings, measures, limitations, and whether its support is strong or moderate. Describe the intervention and findings specifically enough for team members to use the summary. | Ch. 8, pp. 126–129; Ch. 9, p. 135; Apps. E2, pp. 236–242, F, pp. 250–263, and G1, pp. 267, 269–270 |
+| 6. Review the completed table | Check that entries accurately reflect each source, answer the EBP question, and distinguish **measures used** from **results found**. Resolve unclear entries and consider whether an extra column would help capture an intervention component important to the question. Then use the summary for recommendations in Appendix H. | Ch. 9, pp. 134–136; App. G1, pp. 268–269; App. H, pp. 278–282 |
+
+### Process for Appendix G2: Individual Evidence Summary
+
+| Step | What to do | Relevant chapters and printed pages |
+|---|---|---|
+| 1. Confirm the G2 pathway | Verify that the team conducted an **exhaustive search** and completed screening. Assemble the sources that meet the EBP question and inclusion criteria, including applicable pre-appraised evidence, formal studies, or anecdotal sources. | Ch. 7, pp. 98–113; Ch. 9, pp. 134–135; Apps. B, pp. 212–215, and C, pp. 218–223; App. G2, p. 272 |
+| 2. Finish appraisals and reconcile inclusion | Route each source through Appendix D and the appropriate E1, E2, or E3 appraisal. Include only relevant sources judged to have **adequate quality**. Have reviewers settle differences before treating the summary as complete. | Ch. 8, pp. 119–129; Ch. 9, p. 135; App. D, pp. 226–227; Apps. E1–E3, pp. 230–247 |
+| 3. Record identification and design | Assign a unique article number; enter reviewer names and the first author, date, and title. Describe the **type of evidence** precisely using the form's word bank when helpful, selecting only applicable design descriptors. | Ch. 6, pp. 81–89; App. F, pp. 250–263; App. G2, pp. 272–274 |
+| 4. Record population and intervention | State the population, sample size, and setting in enough detail to judge relevance. Describe the intervention or comparison as reported; for observational or anecdotal evidence with no intervention, identify the report's relevant focus instead of inventing one. | App. B, pp. 212–215; Ch. 9, pp. 134–135; App. G2, pp. 272–273 |
+| 5. Extract question-relevant findings and measures | Summarize the particular findings that help answer the EBP question in your own concise words. In **Measures used**, name the instruments, data sources, or methods used to assess outcomes; keep the measured results in **Findings**. | Ch. 9, pp. 134–135; App. G2, pp. 272–273 |
+| 6. Document limitations and support | Combine pertinent author-reported limitations with concerns established during appraisal. Record each source's justified **level of support for decision-making** and use **Notes to the team** for issues useful during synthesis. Quality adequacy and level of support are separate decisions. | Ch. 8, pp. 120–129; App. D, pp. 226–227; Apps. E1–E3, pp. 230–247; App. G2, pp. 272–273 |
+| 7. Check the table and move to synthesis | Ensure every included source has a complete, accurate row and that reviewers agree on its key details. The team can then organize findings across rows and complete **both Sections I and II of Appendix H** for the exhaustive-search pathway. | Ch. 9, pp. 134–135, 137–145; App. G2, pp. 272–273; App. H, pp. 278–282 |
+
+In both forms, the summary is a **faithful extraction of what the sources report**. The comparison of findings across sources and the team's resulting recommendations occur in the subsequent synthesis step (Ch. 9, pp. 134–135).
+
+
 
 ## Appendix F Evidence Terminology and Considerations Guide
 
