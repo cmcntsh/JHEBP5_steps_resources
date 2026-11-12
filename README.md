@@ -730,7 +730,46 @@ Please answer the following questions based on the synthesized findings. Assess 
 <details>
   <summary>Expand to see resources</summary>
 
-* Text resources: Chapter 11; Appendix J
+## Johns Hopkins Evidence-Based Practice, Fifth Edition: Completing Appendix J
+
+The page numbers below are **printed textbook pages**, which may differ from a PDF viewer's page count. **Chapter 11 and Appendix J are the primary instructions.** Appendix J contains an A3 project overview on p. 290, a work breakdown and sustainability plan on p. 291, and field-by-field instructions on pp. 292–294.
+
+### Resources for completing Appendix J
+
+| Resource | Printed pages | How it helps |
+|---|---:|---|
+| Chapter 3, *Practice Question Phase: The Problem* | 43–53; especially 44–50 | Helps define the local problem that opens the A3. |
+| Chapter 9, *Summary, Synthesis, and Best-Evidence Recommendations* | 133–143; especially 139–143 | Supplies the evidence synthesis and recommendations to condense in the **Problem/Evidence** area. |
+| Chapter 10, *Translation Phase: Translation* | 147–153 | Explains the risk and local suitability assessment that leads to an organization-specific recommendation. |
+| **Chapter 11, *Translation Phase: Implementation*** | **157–169** | The main guide to selecting a framework (pp. 158–162), setting goals and measures (pp. 163–165), using the A3 and timelines (pp. 165–168), and planning sustainability (pp. 168–169). |
+| Appendix B, *Question Development Tool* | 212–215 | Keeps the project goal and planned change aligned with the EBP question. |
+| Appendix H, *Summary, Synthesis, & Best-Evidence Recommendations Tool* | 278–282 | Provides the best-evidence recommendation and its certainty. |
+| Appendix I, *Translation Tool* | 286–287 | Provides the organization-specific recommendation and assessment of certainty, risk, fit, feasibility, and acceptability. |
+| **Appendix J, *Implementation and Action Planning (A3) Tool*** | **290–294** | Contains the fields to complete and detailed instructions for each field. |
+
+The completed G1 or G2 evidence summary can also help check details behind the Appendix H synthesis: **G1, pp. 266–270; G2, pp. 272–274**.
+
+### A process for completing Appendix J
+
+Start with the **organization-specific change selected in Appendix I**. The A3 summarizes the plan; its work breakdown structure (WBS) supplies the task detail. Complete planned dates and responsibilities before implementation, then update status and actual dates as work proceeds.
+
+| Step | What to do | Relevant chapters and printed pages |
+|---|---|---|
+| 1. Confirm the change being implemented | Put the EBP question, Appendix H recommendation, and Appendix I organization-specific decision beside the A3. Confirm that the team has decided to proceed with a defined change and carry forward the safety and feasibility concerns identified in I. | Ch. 9, pp. 139–143; Ch. 10, pp. 149–153; Ch. 11, p. 158; Apps. B, pp. 212–215, H, pp. 279–282, I, pp. 286–287, J, pp. 290, 292 |
+| 2. Fill **Problem/Evidence** | Concisely describe the local problem using available local, organizational, or wider comparison data. Identify the process and patient outcomes that need improvement; summarize why the selected intervention addresses them. Cite the data and evidence used. | Ch. 3, pp. 44–50; Ch. 9, pp. 134–139; Ch. 11, pp. 161, 163–164; App. J, pp. 290, 292 |
+| 3. Select the implementation framework | Choose a framework suited to the project and setting, such as the chapter's Translating Evidence Into Practice (TRIP) model or another appropriate option. Name it in **Implementation**, identify its phases, and use those phases to organize the plan. | Ch. 11, pp. 158–162, 164–165; App. J, pp. 290, 292 |
+| 4. Set the goal and major accomplishments | Write a **specific, measurable, achievable, relevant, time-bound (SMART)** improvement goal aligned with an organizational priority when available. Under **Key Accomplishments**, identify the major deliverables for each framework phase and who is accountable for them. | Ch. 11, pp. 161, 163–164; App. J, pp. 290, 292 |
+| 5. Identify the people involved | Fill **People (Engage)** with the project leader, working group, collaborating groups, impacted groups, and sponsor. Match these roles to the key accomplishments, and plan how affected staff and groups will be engaged and educated. | Ch. 11, pp. 164–165; App. J, pp. 290, 292 |
+| 6. Plan implementation and milestones | In **Implementation (Educate, Execute)**, describe how people will learn the new practice and how it will begin. Enter a high-level timeline with milestones; include the anticipated start and evaluation periods. | Ch. 11, pp. 164–165, 167; App. J, pp. 290, 292 |
+| 7. Define **Metrics Progress (Evaluate)** | Choose measures tied to the problem and goal, such as practice-process measures and patient outcomes. State precisely what will be measured, how data will be obtained, the baseline and target where available, and when results will be reviewed. Plan to compare baseline with post-implementation results. | Ch. 11, pp. 163–165; App. J, pp. 290, 293 |
+| 8. Record risks and mitigation | In **Risk and Risk Mitigation Strategy**, list safety concerns and practical barriers that could disrupt the plan. Pair each with an action to reduce the risk and track its status. Use the risk assessment in Appendix I as an input. | Ch. 10, p. 150; Ch. 11, pp. 161, 165; Apps. I, pp. 286–287, and J, pp. 290, 293 |
+| 9. Build the **Work Breakdown Structure** | Expand each milestone into specific tasks. For each task, record its due date, dependencies, accountable person, resources, and planned completion date. Update **status** and **actual completion** as the project progresses. Check that the WBS and A3 milestones agree. | Ch. 11, pp. 167–168; App. J, WBS on p. 291 and instructions on pp. 293–294 |
+| 10. Complete the **Sustainability Plan** | Identify long-term barriers, mitigation, resources, training, continuing duties and their owners, any additional measures, and how often results will be reviewed. Consider how the practice will persist after the initial project team finishes. | Ch. 11, pp. 168–169; App. J, sustainability fields on p. 291 and instructions on p. 294 |
+| 11. Review and maintain the A3 | Check that the goal, measures, milestones, accountable people, risks, WBS, and sustainability arrangements describe **one consistent plan**. During implementation, update progress, dates, barriers, and measured results; use those results to decide whether the change needs adjustment. | Ch. 11, pp. 164–168; App. J, pp. 290–294 |
+
+**Practical check:** A completed planning draft can have future tasks and measures, but **actual completion dates and post-implementation results should be entered only when they occur**. Appendix J provides separate planned, status, and actual-completion fields for that purpose (pp. 291, 294).
+
+
 
 ## Appendix J Implementation and Action Planning Tool (A3)
 
@@ -748,11 +787,26 @@ You are an expert in healthcare quality improvement projects with extensive expe
 
 # 13. (Translation) Identify implementation framework
 
-* Text resources: Chapter 11; Appendix J
+<details>
+  <Summary>Expand to see resources.</Summary>
+
+## Johns Hopkins Evidence-Based Practice, Fifth Edition: Completing Appendix J
+
+See the explanations and resources under #12.
+
+</details>
 
 # 14. (Translation) Create an implementation/action plan
 
-* Text resources: Chapter 11; Appendix J
+<details>
+  <Summary>Expand to see resources.</Summary>
+
+## Johns Hopkins Evidence-Based Practice, Fifth Edition: Completing Appendix J
+
+See the explanations and resources under #12.
+
+</details>
 
 # 15. (Translation) Implement
+
 # 16. (Translation) Monitor sustainability and identify next steps
